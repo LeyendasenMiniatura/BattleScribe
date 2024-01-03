@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Sexta Ampliada" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Sexta Ampliada" indexUrl="https://github.com/LeyendasenMiniatura/BattleScribe/tree/main/repo/" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer_Fantasy_-_6ª_Edición_con_RDC_-_v1.0.gstz" dataType="gamesystem" dataId="fd97-5cfe-d46c-03c6" dataName="Warhammer Fantasy - 6ª Edición con RDC - v1.0" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="RDC_Contingente_Aliado_Hobgoblins v1.catz" dataType="catalogue" dataId="5ad1-0aea-bb04-0213" dataName="RDC Contingente Aliado: Hobgoblins" dataBattleScribeVersion="2.03" dataRevision="10"/>
